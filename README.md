@@ -10,9 +10,17 @@
   * [Condicional (if-else)](lessons/01-05-2018.md#condicional)
   * [Exercicios](lessons/01-05-2018.md#exercicios)
 
+
 - **[03/05/2018](lessons/03-05-2018.md)**
   * [Tipos primitivos](lessons/03-05-2018.md#tipos-primitivos)
   * [Operadores comparativos](lessons/03-05-2018.md#operadores-comparativos)
   * [Operadores aritmeticos](lessons/03-05-2018.md#operadores-aritmeticos)
   * [Lacos (while e for)](lessons/03-05-2018.md#lacos-while-e-for)
   * [Exercicios](lessons/03-05-2018.md#exercicios)
+
+
+- **[06/05/2018](lessons/06-05-2018.md)**
+  * Logica para programação (no papel)
+  * Revisão dos tópicos abordados nas últimas aulas
+  * Exercícios em aula
+  * [Exercicios extras](lessons/06-05-2018.md#exercicios-extras)
